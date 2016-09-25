@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SingletonDemo</string>
+    <string name="next_activity">Next Activity</string>
+</resources>
